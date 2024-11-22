@@ -3,7 +3,7 @@
 
 ## 🚀 Projetos
 
-- **[livro: todas as atividades ](https://drive.google.com/file/d/1MWTShjGeyGTPoeVImLhxFDcUYBNt2bAB/view?usp=classroom_web&authuser=0)**: questões na linguagem Java, resolvidas todas as 50.
+- **[livro: todas as atividades ](https://drive.google.com/file/d/1MWTShjGeyGTPoeVImLhxFDcUYBNt2bAB/view?usp=classroom_web&authuser=0)**: questões na linguagem Java resolvidas, todas as 50.
 
 
 ## 🧑‍💻 Tecnologias
